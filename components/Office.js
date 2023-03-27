@@ -28,7 +28,7 @@ function Office() {
           (LETS HEAR <br /> SOMETHING)
         </div>
         <div className="text-2xl md:text-3xl lg:text-8xl font-bold">
-          TAIMOORSHAHZADA.COM
+          PHEMELO.CO.ZA
         </div>
       </div>
       <div className="w-full h-[3px] bg-white"></div>
