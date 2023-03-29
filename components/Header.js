@@ -126,7 +126,7 @@ function Header() {
           <div>
             An independent <br /> music agency
           </div>
-          <div>Amsterdam</div>
+          <div>South Africa</div>
         </div>
       </div>
     </div>
