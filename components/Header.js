@@ -124,7 +124,7 @@ function Header() {
         </div>
         <div className="flex items-start text-sm justify-between sm:justify-evenly px-5 w-[100%] h-fit">
           <div>
-            An independent <br /> music agency
+            An independent <br /> creative designer
           </div>
           <div>South Africa</div>
         </div>
