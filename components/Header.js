@@ -82,7 +82,7 @@ function Header() {
               ref={resMenuItem3}
               className="font-neutralFace font-bold text-[30px]"
             >
-              PUBLICATIONS
+              PORTFOLIO
             </div>
           </span>
           <span className="overflow-hidden block">
